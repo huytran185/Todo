@@ -2,7 +2,7 @@
 
 This web application platform is used to managing user's Todo tasks.
 
-Website Link:
+Website Link: https://todo-web185.herokuapp.com/
 
 ## Table of contents
 
@@ -98,3 +98,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 4. Delete Task
 
 ## Screenshots
+
+![Home](https://user-images.githubusercontent.com/63865397/121306133-afc91d80-c928-11eb-8367-682ec1d08e85.JPG)
+
+![Edit](https://user-images.githubusercontent.com/63865397/121306205-bf486680-c928-11eb-809e-a2b3188d3ec4.JPG)
+

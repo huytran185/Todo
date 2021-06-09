@@ -1,3 +1,24 @@
+# Welcome to Todo App
+
+This web application platform is used to managing user's Todo tasks.
+
+Website Link:
+
+## Table of contents
+
+1. [Tech stack](#tech-stack)
+2. [Available Script](#Available-scripts)
+3. [Features](#Features)
+4. [Screenshots](#screenshots)
+
+## Tech Stack
+
+1. [React.js](https://reactjs.org/)
+2. [Redux](https://redux.js.org/)
+3. [Redux Toolkit](https://redux-toolkit.js.org/)
+4. [Material UI](https://material-ui.com/)
+5. [Firebase](https://firebase.google.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +89,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Features
+
+1. View Task
+2. Add Task
+3. Edit Task
+4. Delete Task
+
+## Screenshots
